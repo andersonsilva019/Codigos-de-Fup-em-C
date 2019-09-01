@@ -18,5 +18,6 @@ int main(){
          printf("nao ha raiz real\n");
     }
     
+    // Testando a formula
  
 }
